@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="repo_title_placeholder">Repository Title</string>
+    <string name="repo_description_placeholder">Repository Description</string>
+    <string name="repo_watchers_placeholder">0000</string>
+    <string name="repo_language_placeholder">Kotlin</string>
+    <string name="repo_list_activity_name">Android Trending Repositories</string>
+    <string name="open_on_github">Open on Github</string>
+</resources>
